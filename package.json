@@ -1,6 +1,6 @@
 {
-  "name": "seneca-web-adapter-express",
-  "version": "1.0.2",
+  "name": "seneca-web-adapter-express-dd",
+  "version": "1.0.3",
   "description": "seneca-web adapter for express",
   "keywords": [
     "seneca",
